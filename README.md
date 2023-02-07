@@ -2,4 +2,4 @@
 
 ## Wireframe
 
-<img src="__wireframes/wireframe-rotbar-kompak-updated.png" width="100%">
+<img src="__wireframes/wireframe-rotbar-kompak-v.3.png" width="100%">
